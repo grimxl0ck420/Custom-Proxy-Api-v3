@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "node.js" # See documentation for possible values
-    directory: "Custom-Proxy-Api/" # Location of package manifests
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
