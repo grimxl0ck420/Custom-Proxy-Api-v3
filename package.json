@@ -24,7 +24,7 @@
     "pg": "^8.7.1",
     "redis": "^3.1.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.37"
+    "typeorm": "^0.3.12"
   },
   "devDependencies": {
     "@types/connect-redis": "^0.0.17",
